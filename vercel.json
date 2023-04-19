@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://api.openai.com"
+      "dest": "https://chat.90.al"
     }
   ]
 }
